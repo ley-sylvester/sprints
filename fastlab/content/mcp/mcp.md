@@ -37,7 +37,7 @@ Before starting, ensure you have:
 
 
 
-[Video hosted on Oracle Video Hub](videohub:)
+[SQLcl MCP](videohub:1_pp62mvme)
 
 ## Task 1: Connect and Validate MCP
 
